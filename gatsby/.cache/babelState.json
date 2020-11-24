@@ -7,6 +7,14 @@
           "options": {}
         },
         {
+          "name": "babel-plugin-styled-components",
+          "stage": "develop",
+          "options": {
+            "plugins": [],
+            "ssr": false
+          }
+        },
+        {
           "name": "/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/node_modules/gatsby-plugin-typescript/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
@@ -52,6 +60,14 @@
         {
           "name": "/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/node_modules/gatsby-plugin-typescript/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
+        },
+        {
+          "name": "babel-plugin-styled-components",
+          "stage": "develop-html",
+          "options": {
+            "plugins": [],
+            "ssr": false
+          }
         }
       ],
       "presets": [
@@ -87,6 +103,14 @@
         {
           "name": "/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/node_modules/gatsby-plugin-typescript/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
+        },
+        {
+          "name": "babel-plugin-styled-components",
+          "stage": "build-html",
+          "options": {
+            "plugins": [],
+            "ssr": true
+          }
         }
       ],
       "presets": [
@@ -122,6 +146,14 @@
         {
           "name": "/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/node_modules/gatsby-plugin-typescript/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
+        },
+        {
+          "name": "babel-plugin-styled-components",
+          "stage": "build-javascript",
+          "options": {
+            "plugins": [],
+            "ssr": true
+          }
         }
       ],
       "presets": [
