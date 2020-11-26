@@ -11,6 +11,7 @@ exports.components = {
   "component---src-pages-index-js": (preferDefault(require("/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/src/pages/index.js"))),
   "component---src-pages-pizzas-js": (preferDefault(require("/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/src/pages/pizzas.js"))),
   "component---src-pages-slicemasters-js": (preferDefault(require("/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/src/pages/slicemasters.js"))),
-  "component---src-templates-pizza-js": (preferDefault(require("/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/src/templates/Pizza.js")))
+  "component---src-templates-pizza-js": (preferDefault(require("/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/src/templates/Pizza.js"))),
+  "component---src-templates-slicemaster-js": (preferDefault(require("/Users/lucas/code/wes_bos/gatsbyPizza/gatsby/src/templates/Slicemaster.js")))
 }
 
